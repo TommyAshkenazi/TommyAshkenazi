@@ -2,7 +2,7 @@
 **Full Stack & Mobile Developer**  
 Building scalable web and mobile experiences with a strong product mindset.
 
-- 🚀 3+ years of experience with web & mobile apps (B2C & B2B)
+- 🚀 4+ years of experience with web & mobile apps (B2C & B2B)
 - 📱 React Native for mobile, React/Next.js for web
 - 🧠 Love turning ideas into real products end-to-end
 - 🌍 Based in Israel
